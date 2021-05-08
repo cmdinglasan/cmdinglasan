@@ -4,6 +4,15 @@
 
 🔭 I’m currently working on a private project with my team ([Eunace](https://github.com/ebrocamora) and [Rommel](https://github.com/rlormita))
 
+I'm diving into the Vue.JS framework alongside the Laravel Framework. Kudos to both of the teams of Vue.JS and Laravel.
+
+## Contact
+
+You may contact via the channels below:
+
+- [LinkedIn](https://linkedin.com/cmdinglasan)
+- [Email](dinglasanchristian@outlook.com)
+
 <!--
 **cmdinglasan/cmdinglasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
