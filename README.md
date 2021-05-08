@@ -8,7 +8,7 @@ I'm diving into the Vue.JS framework alongside the Laravel Framework. Kudos to b
 
 ## Contact
 
-You may contact via the channels below:
+You may contact me via the channels below:
 
 - [LinkedIn](https://linkedin.com/cmdinglasan)
 - [Email](dinglasanchristian@outlook.com)
