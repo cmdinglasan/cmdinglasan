@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋. I'm Christian Dinglasan
+
+<img src="https://github-readme-stats.vercel.app/api?username=cmdinglasan&show_icons=true&theme=bear" width="400"/>
+
+🔭 I’m currently working on a private project with my team ([Eunace](https://github.com/ebrocamora) and [Rommel](https://github.com/rlormita))
 
 <!--
 **cmdinglasan/cmdinglasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
