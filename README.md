@@ -10,6 +10,10 @@ I'm diving into the Vue.JS framework alongside the Laravel Framework. Kudos to b
 
 You may check out my portfolio website at [cmdinglasan.com](https://cmdinglasan.com/).
 
+## Helpful Resources
+
+If you want to view the resources that helped me with web development, visit my [Helpful Resources](https://github.com/cmdinglasan/Helpful-Resources) repository.
+
 ## Contact
 
 You may contact me via the channels below:
