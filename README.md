@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=cmdinglasan&show_icons=true&theme=bear" width="400"/>
 
-<a href="https://app.daily.dev/cmdinglasan"><img src="https://github.com/cmdinglasan/cmdinglasan/blob/master/devcard.svg" width="400" alt="cmdinglasan's Dev Card"/></a>
+<a href="https://app.daily.dev/cmdinglasan"><img src="https://github.com/cmdinglasan/cmdinglasan/blob/main/devcard.svg" width="400" alt="cmdinglasan's Dev Card"/></a>
 
 🔭 <s>I’m currently working on a private project with my team ([Eunace](https://github.com/ebrocamora) and [Rommel](https://github.com/rlormita))</s>
 
