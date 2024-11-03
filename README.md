@@ -5,7 +5,23 @@
 - 🔭 I'm currently working as a Junior Software Developer.
 - 😄 Pronouns: he/him
 
-I'm diving into the Vue.JS framework alongside the Laravel Framework. Kudos to both of the teams of Vue.JS and Laravel.
+## Tech Stack
+### Languages
+- HTML
+- JavaScript
+- TypeScript
+- Python
+- PHP
+
+### Design
+- Vanila CSS
+- Tailwind CSS
+- Figma
+
+### Frameworks
+- Laravel (PHP)
+- OutSystems (Full Stack - Traditional, Reactive, and Mobile App)
+- NuxtJS (Javascript)
 
 ## Personal Site
 
